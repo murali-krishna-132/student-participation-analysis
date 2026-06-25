@@ -238,7 +238,7 @@ Through this project, I gained practical experience in:
 ### Connect with Me
 
 - **GitHub:** https://github.com/murali-krishna-132
-- **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/
+- **LinkedIn:** https://www.linkedin.com/in/murali-krishna-m-781127335/
 
 ---
 
