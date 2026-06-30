@@ -1,45 +1,49 @@
-# 📊 Student Participation Analysis & Prediction
+# 📊 Student Participation Analysis & Predictive Modeling
 
-A comprehensive data analytics and machine learning project focused on analyzing student participation across various learning opportunities. This project covers the complete analytics workflow—from data understanding and cleaning to exploratory data analysis (EDA), visualization, feature engineering, and predictive modeling.
+A comprehensive **Data Analytics and Machine Learning** project focused on analyzing and predicting student participation across various learning opportunities. This repository documents the complete analytics workflow—from data understanding and preprocessing to exploratory data analysis (EDA), feature engineering, predictive modeling, and actionable insights.
 
 ---
 
 ## 🚀 Project Overview
 
-The objective of this project is to:
+This project aims to:
 
-- Understand student participation behavior
-- Clean and prepare real-world datasets
-- Perform Exploratory Data Analysis (EDA)
-- Visualize participation trends and engagement
-- Engineer meaningful features
-- Build predictive machine learning models
-- Generate actionable insights for improving participation
+- 📂 Understand student participation behavior
+- 🧹 Clean and preprocess real-world educational datasets
+- 📊 Perform Exploratory Data Analysis (EDA)
+- 📈 Visualize participation trends and engagement
+- ⚙️ Engineer meaningful predictive features
+- 🤖 Build and evaluate Machine Learning models
+- 🎯 Generate actionable insights to improve student participation
 
 ---
 
-## 📁 Repository Structure
+# 📁 Repository Structure
 
 ```text
 student-participation-analysis/
 │
 ├── Week-1-Data-Understanding/
-│   ├── dataset/
 │   ├── analysis/
-│   ├── report/
+│   ├── dataset/
+│   ├── reports/
 │   └── README.md
 │
 ├── Week-2-Cohort-Analysis/
+│   ├── analysis/
 │   ├── dataset/
-│   ├── notebooks/
-│   ├── visualizations/
-│   ├── report/
+│   ├── images/
+│   ├── reports/
 │   └── README.md
 │
-├── Week-3-Predictive-Modeling/        (Coming Soon)
+├── Week-3-Predictive-Modeling/
+│   ├── analysis/
+│   ├── dataset/
+│   ├── images/
+│   ├── reports/
+│   └── README.md
 │
 ├── images/
-│
 ├── LICENSE
 └── README.md
 ```
@@ -52,11 +56,11 @@ student-participation-analysis/
 
 ### Objectives
 
-- Explore the dataset
-- Understand data structure
-- Create a data dictionary
-- Perform initial cleaning
-- Generate summary statistics
+- Dataset exploration
+- Data structure analysis
+- Data dictionary creation
+- Initial preprocessing
+- Summary statistics
 
 ### Deliverables
 
@@ -70,73 +74,75 @@ student-participation-analysis/
 
 ### Objectives
 
-- Refine and clean the dataset
-- Handle missing values and inconsistencies
-- Engineer new analytical features
-- Conduct Exploratory Data Analysis (EDA)
-- Create meaningful visualizations
-- Interpret participation trends
-- Prepare the dataset for machine learning
+- Data cleaning
+- Missing value treatment
+- Feature engineering
+- Exploratory Data Analysis (EDA)
+- Statistical analysis
+- Data visualization
 
 ### Visualizations
 
-- 📊 Signup Distribution by Opportunity Type
-- 📈 Participation Trend Line Chart
-- 📉 Engagement Intensity Histogram
-- 🔥 Correlation Heatmap
-- 📦 Boxplot for Outlier Detection
+- Signup Distribution
+- Participation Trend Analysis
+- Engagement Intensity Histogram
+- Correlation Heatmap
+- Boxplot for Outlier Detection
 
-### Key Outcomes
+### Deliverables
 
-- Clean, analysis-ready dataset
-- Engineered features for prediction
-- Participation trend analysis
-- Identification of engagement patterns
-- Insights for predictive modeling
+- Cohort Analysis Report
+- Engineered Dataset
+- Visualizations
+- Analytical Insights
 
 ---
 
-## 🚧 Week 3 – Predictive Modeling *(In Progress)*
+## ✅ Week 3 – Predictive Modeling
 
-Planned tasks include:
+### Objectives
 
-- Feature selection
-- Data preprocessing
-- Machine learning model development
+- Machine Learning model development
+- Participation probability prediction
 - Model evaluation
-- Prediction report
-- Performance comparison
+- Feature importance analysis
+- Prediction interpretation
+- Recommendation generation
+
+### Machine Learning Models
+
+- Logistic Regression
+- Random Forest Classifier
+
+### Model Evaluation
+
+- Accuracy
+- Precision
+- Recall
+- F1-Score
+- ROC-AUC
+- Confusion Matrix
+
+### Visualizations
+
+- Feature Importance Chart
+- Confusion Matrix
+- ROC Curve
+- Participation Probability Heatmap
+- Probability Distribution
+- Model Performance Comparison
+
+### Deliverables
+
+- Trained Machine Learning Models
+- Predicted Participation Probabilities
+- Model Evaluation Report
+- Interpretation of Findings
+- Prediction Report
 
 ---
 
-# 📊 Exploratory Data Analysis
-
-The project investigates:
-
-- Student participation trends
-- Opportunity category performance
-- Signup behavior over time
-- Engagement intensity
-- Correlation among features
-- Outlier detection
-- Participation consistency
-
----
-
-# 🛠️ Technologies Used
-
-| Category | Tools |
-|----------|-------|
-| Programming | Python |
-| Data Analysis | Pandas, NumPy |
-| Visualization | Matplotlib, Seaborn |
-| Machine Learning | Scikit-learn |
-| Development | Jupyter Notebook, VS Code |
-| Version Control | Git & GitHub |
-
----
-
-# 📈 Project Workflow
+# 📊 Project Workflow
 
 ```text
 Raw Dataset
@@ -154,100 +160,134 @@ Exploratory Data Analysis
 Data Visualization
       │
       ▼
-Insight Generation
+Machine Learning
       │
       ▼
-Predictive Modeling
+Prediction
       │
       ▼
-Performance Evaluation
+Model Evaluation
+      │
+      ▼
+Interpretation & Recommendations
 ```
 
 ---
 
-# 📂 Key Deliverables
+# 🛠️ Tech Stack
 
-- ✅ Data Understanding Report
-- ✅ Cohort Participation Analysis Report
-- ✅ Cleaned Dataset
-- ✅ Python Notebooks
-- ✅ Data Visualizations
-- ⏳ Predictive Modeling Report
-- ⏳ Trained Machine Learning Models
+| Category | Technologies |
+|----------|--------------|
+| Programming | Python |
+| Data Processing | Pandas, NumPy |
+| Visualization | Matplotlib, Seaborn |
+| Machine Learning | Scikit-learn |
+| Development | Jupyter Notebook, VS Code |
+| Version Control | Git & GitHub |
 
 ---
 
-# 📸 Sample Visualizations
+# 📂 Repository Highlights
 
-Add screenshots of your charts in the `images/` folder and reference them here.
+✔ Data Cleaning & Preparation
 
-Example:
+✔ Feature Engineering
+
+✔ Exploratory Data Analysis
+
+✔ Statistical Analysis
+
+✔ Predictive Modeling
+
+✔ Machine Learning Evaluation
+
+✔ Probability Prediction
+
+✔ Insight Generation
+
+---
+
+# 📈 Sample Visualizations
+
+> Add screenshots from the `images/` folder.
+
+### Feature Importance
 
 ```markdown
-## Opportunity Category Distribution
+![Feature Importance](images/feature_importance.png)
+```
 
-![Opportunity Category](images/opportunity_category.png)
+### Confusion Matrix
 
----
+```markdown
+![Confusion Matrix](images/confusion_matrix.png)
+```
 
-## Participation Trend
+### Participation Probability Heatmap
 
-![Monthly Signup](images/monthly_signup.png)
+```markdown
+![Heatmap](images/probability_heatmap.png)
+```
 
----
+### ROC Curve
 
-## Correlation Heatmap
-
-![Correlation Heatmap](images/correlation_heatmap.png)
+```markdown
+![ROC Curve](images/roc_curve.png)
 ```
 
 ---
 
 # 🎯 Learning Outcomes
 
-Through this project, I gained practical experience in:
+This project provided practical experience in:
 
 - Data Cleaning
 - Feature Engineering
-- Exploratory Data Analysis (EDA)
-- Data Visualization
+- Exploratory Data Analysis
 - Statistical Analysis
-- Machine Learning Preparation
+- Machine Learning
+- Classification Models
+- Model Evaluation
 - Predictive Analytics
+- Data Visualization
 - Git & GitHub Project Management
 
 ---
 
-# 📌 Future Improvements
+# 🚀 Future Enhancements
 
-- Hyperparameter tuning
-- Cross-validation
-- Model explainability (SHAP/LIME)
-- Interactive dashboards using Power BI or Tableau
-- Deployment using Streamlit or Flask
+- Hyperparameter Tuning
+- Cross Validation
+- Explainable AI (SHAP / LIME)
+- Interactive Dashboard (Power BI / Tableau)
+- Streamlit Web Application
+- Model Deployment
 
 ---
 
 # 👨‍💻 Author
 
-**Murali Krishna**
+## Murali Krishna
 
-🎓 Computer Science Student  
-📊 Aspiring Data Analyst & Machine Learning Enthusiast
+🎓 Computer Science Student
+
+📊 Aspiring Data Analyst | Machine Learning Enthusiast
 
 ### Connect with Me
 
-- **GitHub:** https://github.com/murali-krishna-132
-- **LinkedIn:** https://www.linkedin.com/in/murali-krishna-m-781127335/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/murali-krishna-m-781127335/
+- 💻 **GitHub:** https://github.com/murali-krishna-132
 
 ---
 
 # ⭐ Support
 
-If you found this project helpful, consider giving it a **⭐ Star** on GitHub. Your support is greatly appreciated!
+If you found this project useful, please consider giving the repository a **⭐ Star**.
+
+It helps others discover the project and motivates me to continue building and sharing data analytics and machine learning projects.
 
 ---
 
-## 📄 License
+# 📄 License
 
-This project is created for educational and internship purposes.
+This repository was developed for educational and internship purposes.
