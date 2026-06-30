@@ -207,36 +207,6 @@ Interpretation & Recommendations
 
 ---
 
-# 📈 Sample Visualizations
-
-> Add screenshots from the `images/` folder.
-
-### Feature Importance
-
-```markdown
-![Feature Importance](images/feature_importance.png)
-```
-
-### Confusion Matrix
-
-```markdown
-![Confusion Matrix](images/confusion_matrix.png)
-```
-
-### Participation Probability Heatmap
-
-```markdown
-![Heatmap](images/probability_heatmap.png)
-```
-
-### ROC Curve
-
-```markdown
-![ROC Curve](images/roc_curve.png)
-```
-
----
-
 # 🎯 Learning Outcomes
 
 This project provided practical experience in:
